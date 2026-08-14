@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" fill="none">
+  <rect width="300" height="200" fill="#E8F4FD"/>
+  <rect x="1" y="1" width="298" height="198" rx="12" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M150 70C136.193 70 125 81.1929 125 95C125 108.807 136.193 120 150 120C163.807 120 175 108.807 175 95C175 81.1929 163.807 70 150 70ZM135 95C135 86.7157 141.716 80 150 80C158.284 80 165 86.7157 165 95C165 103.284 158.284 110 150 110C141.716 110 135 103.284 135 95Z" fill="#0073E6"/>
+  <path d="M120 130H180V138H120V130Z" fill="#1A3A5C"/>
+  <text x="150" y="160" text-anchor="middle" fill="#6B7A8C" font-family="sans-serif" font-size="14" font-weight="500">Service Image</text>
+</svg>
